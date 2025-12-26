@@ -32,7 +32,6 @@ A curated collection of Jupyter notebooks and resources created during the **PGT
 
 - **Language:** Python  
 - **Environment:** Jupyter Notebook  
-- **Version control:** Git & GitHub
   
 ---
 
