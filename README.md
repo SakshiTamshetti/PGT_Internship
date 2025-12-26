@@ -12,11 +12,17 @@ A curated collection of Jupyter notebooks and resources created during the **PGT
 
 ## 📁 Repository structure
 
-> Update this section as you add more phases or files.
 
 - `Phase1/`  
-  - Core notebooks and experiments from the first phase of the internship  
-  - Data exploration, preprocessing, and initial model building
+This folder has the basic work done in the first part of the internship.
+## Day-wise Work (Phase 1)
+
+- **Day 1:** Learned the basics of AI, Machine Learning, Deep Learning, and different types of ML.   
+- **Day 2–3:** Practiced Python fundamentals (variables, conditions, loops) and worked with functions, lists, dictionaries, and tuples in Jupyter Notebook.  
+- **Day 4:** Used NumPy and Pandas to load and explore the Iris dataset (`Iris.xls`).  
+- **Day 5:** Created visualizations on the stroke dataset using Matplotlib and Seaborn. 
+
+
 
 ---
 
